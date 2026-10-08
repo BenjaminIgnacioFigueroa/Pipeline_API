@@ -1,0 +1,13 @@
+# Entornos virtuales
+venv/
+
+# Archivos de caché de Python y Pytest
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Archivos de logs
+*.log
+
+# Datos generados (opcional, pero recomendado si cambian constantemente o son pesados)
+output/
